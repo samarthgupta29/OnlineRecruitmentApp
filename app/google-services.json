@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "377577139872",
+    "firebase_url": "https://careertest1-41fca.firebaseio.com",
+    "project_id": "careertest1-41fca",
+    "storage_bucket": "careertest1-41fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377577139872:android:a8c4fc7d0176ce21",
+        "android_client_info": {
+          "package_name": "com.example.samarth.careertest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377577139872-gt8snleibgidbbpvmiim8bjk48scqd7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samarth.careertest1",
+            "certificate_hash": "e0a0d1ddd38f3622d192168369f0c70ffb4c32da"
+          }
+        },
+        {
+          "client_id": "377577139872-1neur0deilous02dgjeo20h38mshto4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqbkoDRbLVSOTInweIAmAnhKu6cgQ_GWY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377577139872-1neur0deilous02dgjeo20h38mshto4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
